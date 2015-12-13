@@ -1,6 +1,6 @@
 {
-  "name": "datejs",
-  "version": "1.0.0-rc3",
+  "name": "@feifan/datejs",
+  "version": "1.0.1",
   "description": "DateJS is the most full-featured, internationalized, open-source JavaScript Date Library.",
   "devDependencies": {
     "codeclimate-test-reporter": "*",
@@ -17,11 +17,11 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/abritinthebay/datejs.git"
+    "url": "git://github.com/TeamSendo/datejs.git"
   },
   "homepage": "https://github.com/abritinthebay/datejs",
   "bugs": {
-    "url": "http://github.com/abritinthebay/datejs/issues"
+    "url": "http://github.com/TeamSendo/datejs/issues"
   },
   "keywords": [
     "date",
